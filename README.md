@@ -25,4 +25,3 @@ This project is created to strengthen **core Java and Object-Oriented Programmin
 
 ---
 
-## Project Structure
